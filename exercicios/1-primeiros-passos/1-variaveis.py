@@ -8,7 +8,7 @@ nome = 'paloma';
 profissao = "vendedora";
 objetivo = '''
 Aprender python para mudar de profissão.
-'''
+''';
 # Declare variáveis de cada tipo numérico
 numero_total = 6;
 salario = 1800.05;
